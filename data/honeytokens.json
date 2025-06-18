@@ -1,0 +1,134 @@
+[
+  {
+    "plain": "jOhnL0VesCatS@Doepassword",
+    "hash": "salt",
+    "salt": "hash",
+    "is_real": false
+  },
+  {
+    "plain": "J0hnL0ve$Cats@doe!",
+    "hash": "salt",
+    "salt": "hash",
+    "is_real": false
+  },
+  {
+    "plain": "jOHnl0v35C@7s@doe2024",
+    "hash": "salt",
+    "salt": "hash",
+    "is_real": false
+  },
+  {
+    "plain": "J0HnL0ve$Cat5@doe!!",
+    "hash": "salt",
+    "salt": "hash",
+    "is_real": false
+  },
+  {
+    "plain": "JOhNlovESC@75@Do3@",
+    "hash": "salt",
+    "salt": "hash",
+    "is_real": false
+  },
+  {
+    "plain": "!!JoHNlovEsC4ts@D0e",
+    "hash": "salt",
+    "salt": "hash",
+    "is_real": false
+  },
+  {
+    "plain": "j0HNlOvEsc475@d0e123",
+    "hash": "salt",
+    "salt": "hash",
+    "is_real": false
+  },
+  {
+    "plain": "Johnlovescats@Doe",
+    "hash": "salt",
+    "salt": "hash",
+    "is_real": true
+  },
+  {
+    "plain": "JOhNloVe5cAts@d0epassword",
+    "hash": "salt",
+    "salt": "hash",
+    "is_real": false
+  },
+  {
+    "plain": "JoHnL0vEscAtS@Doe!!",
+    "hash": "salt",
+    "salt": "hash",
+    "is_real": false
+  },
+  {
+    "plain": "!JohnLOvescats@Doe",
+    "hash": "salt",
+    "salt": "hash",
+    "is_real": false
+  },
+  {
+    "plain": "!joHnlovEsC@7$@D0e",
+    "hash": "salt",
+    "salt": "hash",
+    "is_real": false
+  },
+  {
+    "plain": "joHnL0VE5ca75@D03!!",
+    "hash": "salt",
+    "salt": "hash",
+    "is_real": false
+  },
+  {
+    "plain": "passwordJ0hnlOvEscAtS@doe",
+    "hash": "salt",
+    "salt": "hash",
+    "is_real": false
+  },
+  {
+    "plain": "Johnlove5CaTs@Doe@",
+    "hash": "salt",
+    "salt": "hash",
+    "is_real": false
+  },
+  {
+    "plain": "JoHnl0VeSc4t5@doE1",
+    "hash": "salt",
+    "salt": "hash",
+    "is_real": false
+  },
+  {
+    "plain": "JohNLoVesCATS@dOepassword",
+    "hash": "salt",
+    "salt": "hash",
+    "is_real": false
+  },
+  {
+    "plain": "123JOHnl0Ve5c@t$@d0e",
+    "hash": "salt",
+    "salt": "hash",
+    "is_real": false
+  },
+  {
+    "plain": "007JohNlove5ca7s@Doe",
+    "hash": "salt",
+    "salt": "hash",
+    "is_real": false
+  },
+  {
+    "plain": "Johnlovescats@Doe",
+    "hash": "salt",
+    "salt": "hash",
+    "is_real": true
+  },
+  {
+    "plain": "j0Hnl0vesc@ts@Doe!",
+    "hash": "salt",
+    "salt": "hash",
+    "is_real": false
+  },
+  {
+    "plain": "J0hnloV3sc@7s@Do3!!",
+    "hash": "salt",
+    "salt": "hash",
+    "is_real": false
+  }
+]
